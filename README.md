@@ -29,10 +29,15 @@ The core problem is to identify and quantify the factors that significantly infl
 
 ## Dataset
 The dataset appears to be from a telecommunications or streaming service provider and includes features such as:
+
 Target Variable: Churn (Yes/No).
+
 Demographics: Gender, Senior Citizen status.
+
 Contract Details: Tenure (length of service), Contract Type (Month-to-month, One year, Two year).
+
 Services: PhoneService, MultipleLines, InternetService (DSL, Fiber optic), OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies.
+
 Billing/Payment: PaperlessBilling, PaymentMethod (Electronic check, Mailed check, Bank transfer, Credit card).
 
 ---
