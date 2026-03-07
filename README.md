@@ -106,7 +106,6 @@ The overall churn rate for the dataset is approximately 26.5% (1869 churn vs. 51
 ## Author and Contact
 **Author:** Abhisek Nayak 
 
-**Email:** nayakabhisek7602@gmail.com 
 
-**LinkedIn/GitHub:** [www.linkedin.com/in/abhisek-nayak-88054a362]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-nayak-88054a362/)
 
