@@ -5,6 +5,8 @@ A data-driven analysis factors contributing to customer churn in a telecom datas
 
 ---
 
+![](https://github.com/Abhisek7602/Telecom_Customer_Churn_Data_Analysis/blob/main/Internet%20para%20el%20trabajo.jpg)
+
 ## Table of Contents
 1. [Overview](#overview)  
 2. [Problem Statement](#problem-statement)  
